@@ -51,6 +51,9 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ## Link
 [QR Generator](https://qrgeneratorbyayush.netlify.app/)
 
+## Tags
+QR Code, Web Development, HTML, CSS, JavaScript, QRCode.js, Open Source, Apache License
+
 
 ## License
 
